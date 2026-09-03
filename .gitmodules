@@ -1,0 +1,3 @@
+[submodule "bluedis"]
+	path = bluedis
+	url = https://github.com/IAmRiteshKoushik/bluedis
